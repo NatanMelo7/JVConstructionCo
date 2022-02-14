@@ -9,7 +9,7 @@
 <title>J&V Constructions Company</title>
 </head>
 <body>
-	<h1>J&V Constructions Company</h1>
+	<h1>J&V Constructions Companies</h1>
 	<h4>employee registration</h4><br>
 	
 	<a href="createEmployee.jsp">Register Employee</a>
