@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 
-<c:url value="/create" var="createEmployeeServlet"></c:url>
+<c:url value="/CreateEmployee" var="createEmployeeServlet"></c:url>
 
 <!DOCTYPE html>
 <html>

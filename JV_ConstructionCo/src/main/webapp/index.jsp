@@ -12,7 +12,7 @@
 	<h1>J&V Constructions Companies</h1>
 	<h4>employee registration</h4><br>
 	
-	<a href="createEmployee.jsp">Register Employee</a>
-	<a href="/JV_ConstructionCo/read">List of Employees</a>
+	<a href="EmployeeCreateForward">Register Employee</a>
+	<a href="ReadEmployee">List of Employees</a>
 </body>
 </html>
